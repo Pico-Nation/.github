@@ -1,3 +1,5 @@
+#                                     Pico Blockchain
+
 Pico Blockchain is a lightweight, decentralized blockchain platform built for simple and fast transactions. It is designed to be easy to use, yet powerful enough to support a wide range of decentralized applications.
 
 #Here are some key features of Pico Blockchain:
