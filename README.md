@@ -5,7 +5,7 @@ Pico Blockchain is a lightweight, decentralized blockchain platform built for si
    ## Low transaction fees
    ## Fast transaction times
    ## Simplified consensus mechanism
-    ##Smaller blockchain size
+   ## Smaller blockchain size
 
 You can find the source code for Pico Blockchain in the "code" folder. The "docs" folder contains documentation on how to set up and use the platform.
 
